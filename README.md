@@ -1,5 +1,8 @@
 https://devindeep.com/image-search/
 
+https://stackoverflow.com/questions/23931/algorithm-to-compare-two-images
+
+
 # Reverse Image Search
 This project is all about comparing two images and measure their similarity. There are plenty of ways how you can calculate that percentage, but we will do it using K-Means and image segmentation. The idea is to divide the image into regions, and base our similarity percentage on that. Google has implemented their own way of Reverse Image Search algorithm and you can check it our here.
 
